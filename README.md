@@ -1,1 +1,1 @@
-"Hello world" 
+"Auto-grade content here" 
